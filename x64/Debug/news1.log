@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Dell\source\repos\news1\news1\MyForm.h(2492,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\news1\news1\MyForm.cpp(6,29): warning C4091: '': ignored on left of 'System::Windows::Forms::Form' when no variable is declared
+C:\Users\Dell\source\repos\news1\news1\MyForm.cpp(10,32): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  news1.vcxproj -> C:\Users\Dell\source\repos\news1\x64\Debug\news1.exe

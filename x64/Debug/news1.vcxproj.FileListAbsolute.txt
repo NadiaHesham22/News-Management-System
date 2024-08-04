@@ -1,0 +1,4 @@
+C:\Users\Dell\source\repos\news1\news1\x64\Debug\news1.vcxproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\news1\news1\x64\Debug\news1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\news1\news1\x64\Debug\news1.MyForm.resources
+C:\Users\Dell\source\repos\news1\news1\x64\Debug\news1.vcxproj.GenerateResource.cache
